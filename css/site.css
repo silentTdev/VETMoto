@@ -11,6 +11,11 @@ p {
     color: #2C444F;
 }
 
+#logo > img {
+    margin: 12px;
+    height: 50px;
+}
+
 .company {
     font-family: 'Racing Sans One';
     color: #FC0606;
@@ -38,9 +43,7 @@ p {
 }
 
 #login {
-    margin-top: 18px;
-    margin-right: 22px;
-    
+    margin: 12px;
 }
 
 #login a {
@@ -50,6 +53,10 @@ p {
     padding: 0 10px;
 
     
+}
+
+.navbar-header {
+    width: 100%;
 }
 
 #login span {
